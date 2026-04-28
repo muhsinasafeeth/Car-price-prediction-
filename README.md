@@ -1,4 +1,7 @@
 # 🚗 Car Price Prediction using Machine Learning
+<p align="center">
+  <img src="plots/correlation matrics.png" width="600">
+</p>
 
 ## 📌 Project Overview
 This project models car prices using multiple machine learning algorithms.  
